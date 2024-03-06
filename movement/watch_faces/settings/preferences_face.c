@@ -136,13 +136,13 @@ bool preferences_face_loop(movement_event_t event, movement_settings_t *settings
                         watch_display_string(" Never", 4);
                         break;
                     case 1:
-                        watch_display_string("10n&in", 4);
+                        watch_display_string("10 SeC", 4);
                         break;
                     case 2:
-                        watch_display_string("1 hour", 4);
+                        watch_display_string("10n&in", 4);
                         break;
                     case 3:
-                        watch_display_string("2 hour", 4);
+                        watch_display_string("1 hour", 4);
                         break;
                     case 4:
                         watch_display_string("6 hour", 4);
